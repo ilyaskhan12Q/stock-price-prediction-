@@ -1,0 +1,16 @@
+# Core
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+
+# Deep Learning
+tensorflow>=2.13          # CPU is fine; use tensorflow-gpu for GPU support
+
+# Data download (optional – only needed for yfinance auto-download)
+yfinance>=0.2
+
+# Visualisation
+matplotlib>=3.7
+
+# Testing
+pytest>=7.4
