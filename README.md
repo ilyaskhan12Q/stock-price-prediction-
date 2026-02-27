@@ -38,7 +38,7 @@ stock-price-prediction/
 ### 1. Clone & install
 
 ```bash
-git clone https://github.com/<your-username>/stock-price-prediction.git
+git clone https://github.com/ilyaskhan12Q/stock-price-prediction.git
 cd stock-price-prediction
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
